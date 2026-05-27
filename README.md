@@ -26,7 +26,7 @@ Se recolectaron **3 datasets** de aceleración (ejes X, Y, Z) bajo diferentes co
 ---
 
 ## 🔬 Procesamiento de Datos
-## 2. Graficas
+## 1. Graficas
 
 <img width="839" height="456" alt="WhatsApp Image 2026-05-25 at 7 54 51 PM (2)" src="https://github.com/user-attachments/assets/0ff39f46-c9a3-4e5c-a451-913885466323" />
 
@@ -35,7 +35,7 @@ Se recolectaron **3 datasets** de aceleración (ejes X, Y, Z) bajo diferentes co
 <img width="835" height="456" alt="WhatsApp Image 2026-05-25 at 7 54 51 PM" src="https://github.com/user-attachments/assets/48cec9c9-9b21-4f38-a055-73ac3bb51c2e" />
 
 
-### 1. Limpieza y Filtrado
+### 2. Limpieza y Filtrado
 
 ```python
 # Filtro pasa-altas (eliminar componente de gravedad)
