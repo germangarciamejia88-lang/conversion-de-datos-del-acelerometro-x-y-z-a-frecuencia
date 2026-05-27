@@ -26,6 +26,14 @@ Se recolectaron **3 datasets** de aceleración (ejes X, Y, Z) bajo diferentes co
 ---
 
 ## 🔬 Procesamiento de Datos
+## 2. Graficas
+
+<img width="839" height="456" alt="WhatsApp Image 2026-05-25 at 7 54 51 PM (2)" src="https://github.com/user-attachments/assets/0ff39f46-c9a3-4e5c-a451-913885466323" />
+
+<img width="836" height="456" alt="WhatsApp Image 2026-05-25 at 7 54 51 PM (1)" src="https://github.com/user-attachments/assets/3a23e408-7c22-4028-9bc0-7b6e9d043d2b" />
+
+<img width="835" height="456" alt="WhatsApp Image 2026-05-25 at 7 54 51 PM" src="https://github.com/user-attachments/assets/48cec9c9-9b21-4f38-a055-73ac3bb51c2e" />
+
 
 ### 1. Limpieza y Filtrado
 
@@ -34,11 +42,4 @@ Se recolectaron **3 datasets** de aceleración (ejes X, Y, Z) bajo diferentes co
 Fc = 0.5  # Frecuencia de corte
 Fs = 100  # Frecuencia de muestreo
 
-### 2. Graficas
-
-<img width="839" height="456" alt="WhatsApp Image 2026-05-25 at 7 54 51 PM (2)" src="https://github.com/user-attachments/assets/0ff39f46-c9a3-4e5c-a451-913885466323" />
-
-<img width="836" height="456" alt="WhatsApp Image 2026-05-25 at 7 54 51 PM (1)" src="https://github.com/user-attachments/assets/3a23e408-7c22-4028-9bc0-7b6e9d043d2b" />
-
-<img width="835" height="456" alt="WhatsApp Image 2026-05-25 at 7 54 51 PM" src="https://github.com/user-attachments/assets/48cec9c9-9b21-4f38-a055-73ac3bb51c2e" />
 
